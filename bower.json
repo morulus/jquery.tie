@@ -2,23 +2,20 @@
     "name": "jquery.tie",
     "version": "1.0",
     "main": "jquery.tie.js",
+    "license": "https://github.com/morulus/jquery.tie/blob/master/LICENSE.md",
     "ignore": [
-        "source",
-        "spec",
-        ".bowerrc",
-        ".gitignore",
-        ".jshintignore",
-        ".jshintrc",
-        "bower.json",
-        "gruntfile.js",
-        "package.json",
-        "README.md"
     ],
     "dependencies": {
-        "jquery": ">=1.10.2",
-        "underscore": "~1.5.2"
+        "jquery": ">=1.7.1"
     },
     "devDependencies": {
-        "jquery-mockjax": "~1.5.2"
+    },
+    "homepage": "https://github.com/morulus/jquery.tie",
+    "keywords": [
+        "jquery"
+    ], 
+    "author": {
+        "name": "Vladimir Kalmykov",
+        "web": "https://github.com/morulus"
     }
 }
