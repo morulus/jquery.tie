@@ -1,5 +1,4 @@
 /**
-UltimarteZoom - jQuery plugin for zooming images on web page.
 @author Vladimir Kalmykov (http://github. )
 */
 (function(jQuery) {
